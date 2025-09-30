@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 # Mini SQL Agent – Natural Language Database Interface (v1)
