@@ -81,21 +81,6 @@ Once running, access:
 
 ---
 
-## 🐳 Docker Deployment in future
-
-### Build Image
-
-```bash
-docker build -t mini-sql-agent:v1 .
-```
-
-### Run Container
-
-```bash
-docker run -d -p 8000:8000 --env-file .env mini-sql-agent:v1
-```
-
----
 
 ## 📂 Project Structure
 
